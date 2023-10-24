@@ -1,0 +1,17 @@
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\bin\Debug\net7.0\UdpClient01.exe
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\bin\Debug\net7.0\UdpClient01.deps.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\bin\Debug\net7.0\UdpClient01.runtimeconfig.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\bin\Debug\net7.0\UdpClient01.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\bin\Debug\net7.0\UdpClient01.pdb
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\obj\Debug\net7.0\UdpClient01.csproj.AssemblyReference.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\obj\Debug\net7.0\UdpClient01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\obj\Debug\net7.0\UdpClient01.AssemblyInfoInputs.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\obj\Debug\net7.0\UdpClient01.AssemblyInfo.cs
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\obj\Debug\net7.0\UdpClient01.csproj.CoreCompileInputs.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\obj\Debug\net7.0\UdpClient01.csproj.CopyComplete
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\obj\Debug\net7.0\UdpClient01.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\obj\Debug\net7.0\refint\UdpClient01.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\obj\Debug\net7.0\UdpClient01.pdb
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\obj\Debug\net7.0\UdpClient01.genruntimeconfig.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift2\UdpClient01\obj\Debug\net7.0\ref\UdpClient01.dll

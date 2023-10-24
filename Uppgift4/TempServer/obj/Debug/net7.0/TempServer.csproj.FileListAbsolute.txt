@@ -1,0 +1,114 @@
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.csproj.AssemblyReference.cache
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.AssemblyInfoInputs.cache
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.AssemblyInfo.cs
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\appsettings.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\TempServer.exe
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\TempServer.deps.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\TempServer.runtimeconfig.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\TempServer.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\TempServer.pdb
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\Owin.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets\msbuild.TempServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets\msbuild.build.TempServer.props
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TempServer.props
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TempServer.props
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\scopedcss\bundle\TempServer.styles.css
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.csproj.CopyComplete
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\refint\TempServer.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.pdb
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.genruntimeconfig.cache
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempServer\obj\Debug\net7.0\ref\TempServer.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\appsettings.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\TempServer.exe
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\TempServer.deps.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\TempServer.runtimeconfig.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\TempServer.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\TempServer.pdb
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\Owin.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.csproj.AssemblyReference.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.AssemblyInfoInputs.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.AssemblyInfo.cs
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets\msbuild.TempServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets\msbuild.build.TempServer.props
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TempServer.props
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TempServer.props
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\scopedcss\bundle\TempServer.styles.css
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.csproj.CopyComplete
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\refint\TempServer.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.pdb
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.genruntimeconfig.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempServer\obj\Debug\net7.0\ref\TempServer.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\appsettings.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\TempServer.exe
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\TempServer.deps.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\TempServer.runtimeconfig.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\TempServer.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\TempServer.pdb
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\Microsoft.Owin.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\Microsoft.Owin.Security.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\Owin.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.csproj.AssemblyReference.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.AssemblyInfoInputs.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.AssemblyInfo.cs
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.csproj.CoreCompileInputs.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets\msbuild.TempServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets\msbuild.build.TempServer.props
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TempServer.props
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TempServer.props
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\scopedcss\bundle\TempServer.styles.css
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.csproj.CopyComplete
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\refint\TempServer.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.pdb
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\TempServer.genruntimeconfig.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempServer\obj\Debug\net7.0\ref\TempServer.dll

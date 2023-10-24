@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t4JMOZSMhtQDgo8pu0xq0FG5waSiVUUbsG7Gz5WNJZmdqA+orAwxE9vMp99mvC8h7oY/cwuOgruu4gjX/Fikbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\albin\\Desktop\\Data-kommunikation\\Uppgift2\\UdpClient02\\UdpClient02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\albin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,96 @@
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\TempGenerator.exe
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\TempGenerator.deps.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\TempGenerator.runtimeconfig.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\TempGenerator.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\TempGenerator.pdb
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.csproj.AssemblyReference.cache
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.AssemblyInfoInputs.cache
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.AssemblyInfo.cs
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.csproj.CopyComplete
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\obj\Debug\net7.0\refint\TempGenerator.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.pdb
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.genruntimeconfig.cache
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempGenerator\obj\Debug\net7.0\ref\TempGenerator.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\TempGenerator.exe
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\TempGenerator.deps.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\TempGenerator.runtimeconfig.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\TempGenerator.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\TempGenerator.pdb
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.csproj.AssemblyReference.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.AssemblyInfoInputs.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.AssemblyInfo.cs
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.csproj.CopyComplete
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\obj\Debug\net7.0\refint\TempGenerator.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.pdb
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.genruntimeconfig.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempGenerator\obj\Debug\net7.0\ref\TempGenerator.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\TempGenerator.exe
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\TempGenerator.deps.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\TempGenerator.runtimeconfig.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\TempGenerator.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\TempGenerator.pdb
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.csproj.AssemblyReference.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.AssemblyInfoInputs.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.AssemblyInfo.cs
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.csproj.CoreCompileInputs.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.csproj.CopyComplete
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\obj\Debug\net7.0\refint\TempGenerator.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.pdb
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\obj\Debug\net7.0\TempGenerator.genruntimeconfig.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempGenerator\obj\Debug\net7.0\ref\TempGenerator.dll

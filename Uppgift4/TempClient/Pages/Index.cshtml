@@ -1,0 +1,25 @@
+﻿@page
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weather Forecast</title>
+    <!-- Länk till Bootstrap 4 CSS från en CDN -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container bg-light">
+        <h1 class="display-4 mt-4 mb-4 text-primary">Weather Forecast</h1>
+         <li class="list-group-item border text-black">
+            <ul class="list-group" id="forecastList">
+            </ul>
+         </li>
+    </div>
+
+    <!-- Länkar till Bootstrap 4 JavaScript och jQuery från CDN -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="~/js/site.js"></script>
+    <script src="~/js/signalr/dist/browser/signalr.js"></script>
+</body>
+</html>

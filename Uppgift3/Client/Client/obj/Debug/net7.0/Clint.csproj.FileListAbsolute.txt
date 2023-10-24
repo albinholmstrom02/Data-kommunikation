@@ -1,0 +1,17 @@
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\bin\Debug\net7.0\Clint.exe
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\bin\Debug\net7.0\Clint.deps.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\bin\Debug\net7.0\Clint.runtimeconfig.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\bin\Debug\net7.0\Clint.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\bin\Debug\net7.0\Clint.pdb
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\obj\Debug\net7.0\Clint.csproj.AssemblyReference.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\obj\Debug\net7.0\Clint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\obj\Debug\net7.0\Clint.AssemblyInfoInputs.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\obj\Debug\net7.0\Clint.AssemblyInfo.cs
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\obj\Debug\net7.0\Clint.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\obj\Debug\net7.0\Clint.csproj.CopyComplete
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\obj\Debug\net7.0\Clint.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\obj\Debug\net7.0\refint\Clint.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\obj\Debug\net7.0\Clint.pdb
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\obj\Debug\net7.0\Clint.genruntimeconfig.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift3\Clint\Clint\obj\Debug\net7.0\ref\Clint.dll

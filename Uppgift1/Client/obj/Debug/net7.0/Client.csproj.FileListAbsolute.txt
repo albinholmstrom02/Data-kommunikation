@@ -1,0 +1,51 @@
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\bin\Debug\net7.0\Client.exe
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\bin\Debug\net7.0\Client.deps.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\bin\Debug\net7.0\Client.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\bin\Debug\net7.0\Client.pdb
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\obj\Debug\net7.0\Client.csproj.CopyComplete
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\obj\Debug\net7.0\Client.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\obj\Debug\net7.0\refint\Client.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\obj\Debug\net7.0\Client.pdb
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift1\Client\obj\Debug\net7.0\ref\Client.dll
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\bin\Debug\net7.0\Client.exe
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\bin\Debug\net7.0\Client.deps.json
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\bin\Debug\net7.0\Client.dll
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\bin\Debug\net7.0\Client.pdb
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\obj\Debug\net7.0\Client.csproj.CopyComplete
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\obj\Debug\net7.0\Client.dll
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\obj\Debug\net7.0\refint\Client.dll
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\obj\Debug\net7.0\Client.pdb
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+C:\Users\albin\Desktop\Datakommunikation-main\Datakommunikation-main\Uppgift1\Client\obj\Debug\net7.0\ref\Client.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\bin\Debug\net7.0\Client.exe
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\bin\Debug\net7.0\Client.deps.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\bin\Debug\net7.0\Client.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\bin\Debug\net7.0\Client.pdb
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\obj\Debug\net7.0\Client.csproj.CopyComplete
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\obj\Debug\net7.0\Client.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\obj\Debug\net7.0\refint\Client.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\obj\Debug\net7.0\Client.pdb
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift1\Client\obj\Debug\net7.0\ref\Client.dll

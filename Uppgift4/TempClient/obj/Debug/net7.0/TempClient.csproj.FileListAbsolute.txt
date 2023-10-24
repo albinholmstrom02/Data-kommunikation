@@ -1,0 +1,117 @@
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\bin\Debug\net7.0\appsettings.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\bin\Debug\net7.0\libman.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.staticwebassets.runtime.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.exe
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.deps.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.runtimeconfig.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.pdb
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.csproj.AssemblyReference.cache
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.AssemblyInfoInputs.cache
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.AssemblyInfo.cs
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.RazorAssemblyInfo.cache
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.RazorAssemblyInfo.cs
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets\msbuild.TempClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets\msbuild.build.TempClient.props
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TempClient.props
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TempClient.props
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\scopedcss\bundle\TempClient.styles.css
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\scopedcss\projectbundle\TempClient.bundle.scp.css
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.csproj.CopyComplete
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\refint\TempClient.dll
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.pdb
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.genruntimeconfig.cache
+C:\Users\Jakob\Desktop\Uppgift 4\Uppgift4\TempClient\obj\Debug\net7.0\ref\TempClient.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\bin\Debug\net7.0\appsettings.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\bin\Debug\net7.0\libman.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.staticwebassets.runtime.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.exe
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.deps.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.runtimeconfig.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.pdb
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.csproj.AssemblyReference.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.AssemblyInfoInputs.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.AssemblyInfo.cs
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.RazorAssemblyInfo.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.RazorAssemblyInfo.cs
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets\msbuild.TempClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets\msbuild.build.TempClient.props
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TempClient.props
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TempClient.props
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\scopedcss\bundle\TempClient.styles.css
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\scopedcss\projectbundle\TempClient.bundle.scp.css
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.csproj.CopyComplete
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\refint\TempClient.dll
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.pdb
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.genruntimeconfig.cache
+C:\Users\Jakob\Desktop\Datakommunikation och säkerhet\Uppgift4\TempClient\obj\Debug\net7.0\ref\TempClient.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\bin\Debug\net7.0\appsettings.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\bin\Debug\net7.0\libman.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.staticwebassets.runtime.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.exe
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.deps.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.runtimeconfig.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\bin\Debug\net7.0\TempClient.pdb
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.csproj.AssemblyReference.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.AssemblyInfoInputs.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.AssemblyInfo.cs
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.csproj.CoreCompileInputs.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.RazorAssemblyInfo.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.RazorAssemblyInfo.cs
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets\msbuild.TempClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets\msbuild.build.TempClient.props
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TempClient.props
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TempClient.props
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\scopedcss\bundle\TempClient.styles.css
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\scopedcss\projectbundle\TempClient.bundle.scp.css
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.csproj.CopyComplete
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\refint\TempClient.dll
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.pdb
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\TempClient.genruntimeconfig.cache
+C:\Users\albin\Desktop\Data-kommunikation\Uppgift4\TempClient\obj\Debug\net7.0\ref\TempClient.dll
